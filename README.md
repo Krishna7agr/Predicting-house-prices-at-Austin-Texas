@@ -9,6 +9,7 @@ These home listings were scraped from "Zillow.com" using their official API, via
 This data was scraped on January 31st, 2021 and placed on Kaggle with following meta data.
 
 Meta Data: https://www.kaggle.com/datasets/ericpierce/austinhousingprices/metadata
+Project Link: https://colab.research.google.com/drive/1a6x2CWi-E-uOz04KviAk6M1rZ-iuZpn_?usp=sharing
 
 Introduction & Motivation: When we look at housing prices on Zillow, two quick questions come into our mind. 
 Whether prices shown on zillow are inflated or genuine? What is the general trend of housing prices in the city based on my preferred location 
